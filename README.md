@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Mason
+<a href="https://linkedin.com/in/mason-mikesch/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**mikeschm1/mikeschm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an upcoming graduate with a profound interest in technology and a dedication to solving complex problems.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My undergrad in MIS has led me to develop a passion for cybersecurity, and I am now eager to enter into this field.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|        ||
+|  | |
+|      | |
+|       | |
+|                   | |
+|  | |
+
+## Tools
+
+
+## Certifications
