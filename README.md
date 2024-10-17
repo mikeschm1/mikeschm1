@@ -11,7 +11,7 @@ My undergrad in MIS has led me to develop a passion for cybersecurity, and I am 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|  Security Auditing  | Security Audit Simulation  |
+|  Security Auditing  | <a href="https://github.com/mikeschm1/Security-Audit-Simulation/tree/main">Security Audit Simulation</a>  |
 |  | |
 |      | |
 |       | |
@@ -22,3 +22,6 @@ My undergrad in MIS has led me to develop a passion for cybersecurity, and I am 
 
 
 ## Certifications
+
+## Projects
+- <a href="https://github.com/mikeschm1/Security-Audit-Simulation/tree/main">Security Audit Simulation</a>
