@@ -11,7 +11,7 @@ My undergrad in MIS has led me to develop a passion for cybersecurity, and I am 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|        ||
+|  Security Auditing  | Security Audit Simulation  |
 |  | |
 |      | |
 |       | |
